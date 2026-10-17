@@ -1,0 +1,6 @@
+{
+  "name": "Salvage-It",
+  "description": "Universal industrial recovery intelligence platform to determine the safest, most practical, and economically sensible value recovery for surplus, decommissioned, or defective items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
