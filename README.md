@@ -1,8 +1,8 @@
-# Salvagity — Universal Industrial Recovery Intelligence
+# Salvage It — Universal Industrial Recovery Intelligence
 
 > **Tagline:** Recover value. Reduce waste.
 
-**Salvagity** is an industrial decision-support platform that helps businesses determine the safest, most practical, and economically sensible way to recover value from damaged, defective, surplus, unused, obsolete, or decommissioned physical items.
+**Salvage It** is an industrial decision-support platform that helps businesses determine the safest, most practical, and economically sensible way to recover value from damaged, defective, surplus, unused, obsolete, or decommissioned physical items.
 
 The central question answered by the platform is:
 
